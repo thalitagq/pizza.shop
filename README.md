@@ -5,4 +5,7 @@
   - Shadcn/ui
     - Tailwind
     - Radix-UI
+  - React hook-form
+    - zod
+  - Sonner
   
