@@ -8,4 +8,4 @@
   - React hook-form
     - zod
   - Sonner
-  
+  - Recharts
