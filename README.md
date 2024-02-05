@@ -9,3 +9,4 @@
     - zod
   - Sonner
   - Recharts
+  - React Query
