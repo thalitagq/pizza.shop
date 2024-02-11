@@ -1,13 +1,13 @@
 import { api } from "@/lib/axios";
 
-interface GetOrdersquery{
+export interface GetOrdersquery{
   pageIndex?: number | null
   orderId?: string | null
   customerName?: string | null
   status?: string | null
 }
 
-interface GetOrdersResponse{
+export interface GetOrdersResponse{
   orders: {
     orderId: string;
     createdAt: string;
