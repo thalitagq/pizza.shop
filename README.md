@@ -20,3 +20,4 @@
   - jest-dom
   - user-event
 - Happy-dom
+- MSW
