@@ -21,3 +21,4 @@
   - user-event
 - Happy-dom
 - MSW
+- Playwright
